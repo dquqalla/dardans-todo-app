@@ -2,6 +2,10 @@
 
 The React-based To-Do app enables users to add new tasks to a dynamic list and easily mark them as completed with a simple click.
 
+<p align="center">
+    <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/61984924/251967345-5e36b018-10a2-4ac3-8425-d990202919c5.png">
+</p>
+
 ## **Project Structure**
 
 Below is the structure of the project, including folders and files.

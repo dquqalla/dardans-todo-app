@@ -81,7 +81,7 @@ Achieving full responsiveness across all devices wasn't feasible. Instead, I pri
 
 ### _Testing_
 
-No include unit testing or integration testing is included. Comprehensive testing should be implemented to ensure the stability and reliability of the app. This can be achieved using test frameworks such as Jest and the React Testing library.
+No unit testing or integration testing is included. Comprehensive testing should be implemented to ensure the stability and reliability of the app. This can be achieved using test frameworks such as Jest and the React Testing library.
 
 ### _Error Handling and Validation_
 
